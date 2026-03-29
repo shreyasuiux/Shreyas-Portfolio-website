@@ -17,11 +17,6 @@ const About = () => {
           and the Mahindra Summit app, along with websites for brands like Angel
           One, HDFC Bank, and The Bombay Store.
         </p>
-        <p className="para">
-          I collaborate closely with developers and product teams to turn complex
-          ideas into user-friendly solutions, focusing on clarity, usability,
-          and real-world impact.
-        </p>
       </div>
     </div>
   );
